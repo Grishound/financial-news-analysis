@@ -1,6 +1,6 @@
 # Understanding Algorithmic Sentiment Analysis on Financial News Headlines
 
-As a senior algorithmic trader with a Master's degree in Data Science, I'll delve into the provided Python code to elucidate how it works and its relevance in the context of algorithmic trading. The code employs Natural Language Processing (NLP) techniques to analyze sentiment in financial news headlines, aiming to gain insights into market sentiment for specific stocks. We will walk through the code step by step, providing explanations and examples to aid comprehension.
+The code employs Natural Language Processing (NLP) techniques to analyze sentiment in financial news headlines, aiming to gain insights into market sentiment for specific stocks. We will walk through the code step by step, providing explanations and examples to aid comprehension.
 
 ## Importing Libraries and Downloading NLTK Data
 The initial lines of code import necessary libraries, such as Pandas for data manipulation, urllib for web requests, NLTK for Natural Language Processing, and specifically, the VADER sentiment analysis tool. The code also downloads the VADER lexicon, a pre-trained sentiment analysis dictionary used by the NLTK library.
